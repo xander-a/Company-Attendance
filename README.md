@@ -37,4 +37,5 @@ This is a time-tracking system built with **Java Spring Boot** and **ReactJS**. 
 
 ![image](https://github.com/user-attachments/assets/d26472c3-cf17-4acb-a1c6-94999497e102)
 ![image](https://github.com/user-attachments/assets/3bad9b73-0e40-441a-b654-acdb198310f9)
+![image](https://github.com/user-attachments/assets/1f563c95-651f-4065-897c-e01d2c709d94)
 
